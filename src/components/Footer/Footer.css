@@ -1,0 +1,13 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+  .attribution p{
+    margin-bottom: 5px;
+  }
+  .attribution span{
+    color: var(--primary-light-cyan);
+  }

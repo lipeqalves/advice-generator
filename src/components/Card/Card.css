@@ -1,0 +1,32 @@
+.card {
+  margin: 80px 0;
+  max-width: 80%;
+  height: 60%;
+  border-radius: 7px;
+  box-shadow: 0px 0px 2px 1px var(--primary-light-cyan);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  position: relative;
+  flex-wrap: wrap;
+}
+.card-btn {
+  position: absolute;
+  bottom: -28px;
+}
+.card h1 {
+  color: var(--primary-neon-green);
+  font-size: 18px;
+  font-weight: 400;
+}
+.card p {
+  font-size: 22px;
+  text-align: center;
+  width: 90%;
+  color: var(--primary-light-cyan);
+}
+.card-img {
+  width: 85%;
+  margin-bottom: 25px;
+}
