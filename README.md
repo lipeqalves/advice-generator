@@ -33,7 +33,7 @@ Esta é uma solução para o [Advice generator app solution challenge on Fronten
 
 #### Links
 
-- Solution URL: [Interactive rating component](https://interactive-rating-component-omega-mauve.vercel.app/)
+- Solution URL: [Advice generator app](https://advice-generator-nu-three.vercel.app/)
 
 ### Desenvolvimento
 
