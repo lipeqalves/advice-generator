@@ -43,12 +43,12 @@ Esta é uma solução para o [Advice generator app solution challenge on Fronten
 - CSS
 - Flexbox
 - Layout Responsivo
-- [React](https://reactjs.org/) - JS library
-- [Axios](https://axios-http.com/ptbr/docs/intro)
+- [React](https://reactjs.org/) - Documentação
+- [Axios](https://axios-http.com/ptbr/docs/intro) - Documentação
 
 #### Aprendizado
 
-Esse projeto tem como objetivo praticar o desenvolvimento de web com React, o principal conceito colocado em prática foi o comsumo de Api utilizando  Axios(Cliente HTTP baseado em promise para o navegador e Node.js), que foi utilizado para buscar dados da API Advice Slip .
+Esse projeto tem como objetivo praticar o desenvolvimento web com React, o principal conceito colocado em prática foi o comsumo de Api utilizando  Axios(Cliente HTTP baseado em promise para o navegador e Node.js), que foi utilizado para buscar dados da API Advice Slip .
 
 - Exemplo de parte do código usado para acessar a api:
 
